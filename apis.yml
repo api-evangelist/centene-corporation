@@ -1,0 +1,36 @@
+aid: centene-corporation
+url: https://raw.githubusercontent.com/api-evangelist/centene-corporation/refs/heads/main/apis.yml
+name: Centene Corporation
+type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/centene-corporation.png
+tags:
+  - Healthcare
+  - Insurance
+  - Health Insurance
+  - Managed Care
+  - Fortune 500
+description: 'A leading managed care company providing health insurance primarily to government-sponsored programs including Medicaid, Medicare, and the Health Insurance Marketplace. Serves over 25 million members across all 50 U.S. states.'
+created: '2026-05-05'
+modified: '2026-05-05'
+specificationVersion: '0.23'
+apis: []
+common:
+  - type: DomainSecurity
+    url: security/centene-corporation-domain-security.yml
+  - type: GitHubOrganization
+    url: https://github.com/Centene
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/centene-corporation
+  - type: Website
+    url: https://www.centene.com/
